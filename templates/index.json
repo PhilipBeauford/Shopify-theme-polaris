@@ -1,0 +1,9 @@
+{
+  "sections": {
+    "main": {
+      "type": "hello-world",
+      "settings": {}
+    }
+  },
+  "order": ["main"]
+}
